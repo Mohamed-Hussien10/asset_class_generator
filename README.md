@@ -29,7 +29,7 @@ To generate asset classes for your Flutter project, follow these steps:
 
 ### 2️⃣ Add the Following Code
 ```dart
-import 'package:asset_class_generator/asset_class_generator.dart';
+import 'package:assets_file_generator/assets_file_generator.dart';
 
 void main() {
   generateAssetClasses();

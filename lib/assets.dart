@@ -14,50 +14,26 @@ class AssetsPaths {
   static const String raw = '$assets/raw';
 }
 
-class AppImages {
+class AppImages {}
 
-}
+class AppIcons {}
 
-class AppIcons {
+class AppSvgs {}
 
-}
+class AppLotties {}
 
-class AppSvgs {
+class AppFonts {}
 
-}
+class AppVideos {}
 
-class AppLotties {
+class AppAudios {}
 
-}
+class AppDocuments {}
 
-class AppFonts {
+class AppAnimations {}
 
-}
+class AppTextures {}
 
-class AppVideos {
+class AppModels {}
 
-}
-
-class AppAudios {
-
-}
-
-class AppDocuments {
-
-}
-
-class AppAnimations {
-
-}
-
-class AppTextures {
-
-}
-
-class AppModels {
-
-}
-
-class AppRaw {
-
-}
+class AppRaw {}

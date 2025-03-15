@@ -1,6 +1,6 @@
 name: assets_file_generator
 description: A Flutter package that automatically generates Dart classes for assets by watching the assets folder.
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/Mohamed-Hussien10/assets_file_generator
 repository: https://github.com/Mohamed-Hussien10/assets_file_generator.git
 
